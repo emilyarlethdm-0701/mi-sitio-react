@@ -41,7 +41,7 @@ function App() {
     <div className="container mt-5">
 
       <h1 className="text-center mb-4">
-        Hola, este es mi nuevo cambio
+        Hola, este es mi segundo cambio
       </h1>
 
 
